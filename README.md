@@ -6,3 +6,5 @@ in Billions and train using whole dataset on internet.
 
 ## You can read blog about this on [medium](https://rushikeshdarge.medium.com/attention-blog-hindi-to-english-translation-94e8fe786745)
 
+![attention_mechanism](https://github.com/rushidarge/NLP-Attention-English-to-Hindi-Translator-/blob/main/images/attention%20model%20working.gif)
+
